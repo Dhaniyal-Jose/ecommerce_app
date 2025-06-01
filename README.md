@@ -58,7 +58,7 @@ lib/
 
 1. **Clone or extract project**  
    ```bash
-   git clone <https://github.com/Anitta24/ecommerce_app>
+   git clone <https://github.com/Dhaniyal-Jose/ecommerce_app>
    cd ecommerce_app
    ```
 
